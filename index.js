@@ -22,7 +22,7 @@ if(votingAge>18){
   console.log(true);
 }else{console.log(false);}
 
-
+//
 
 /*
 Task 1b - Values
