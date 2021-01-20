@@ -22,7 +22,6 @@ if(votingAge>18){
   console.log(true);
 }else{console.log(false);}
 
-votingAge>18 ? console.log(true) : console.log(false) 
 
 
 /*
